@@ -1,0 +1,16 @@
+
+[Bolt1 = 1, Bolt2 = 1] Total running time: 12078 ms
+[Bolt1 = 1, Bolt2 = 2] Total running time: 10374 ms
+[Bolt1 = 1, Bolt2 = 3] Total running time: 10319 ms
+[Bolt1 = 2, Bolt2 = 1] Total running time: 10322 ms
+[Bolt1 = 2, Bolt2 = 2] Total running time: 10306 ms
+[Bolt1 = 2, Bolt2 = 3] Total running time: 10341 ms
+[Bolt1 = 3, Bolt2 = 1] Total running time: 10312 ms
+[Bolt1 = 3, Bolt2 = 2] Total running time: 10368 ms
+[Bolt1 = 3, Bolt2 = 3] Total running time: 10329 ms
+[Bolt1 = 4, Bolt2 = 1] Total running time: 10306 ms
+[Bolt1 = 4, Bolt2 = 2] Total running time: 10302 ms
+[Bolt1 = 4, Bolt2 = 3] Total running time: 10290 ms
+[Bolt1 = 5, Bolt2 = 1] Total running time: 10305 ms
+[Bolt1 = 5, Bolt2 = 2] Total running time: 10328 ms
+[Bolt1 = 5, Bolt2 = 3] Total running time: 10367 ms
